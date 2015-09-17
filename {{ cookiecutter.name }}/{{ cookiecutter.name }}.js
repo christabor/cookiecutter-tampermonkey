@@ -10,7 +10,7 @@
 // @source {{ source }}
 // @iconURL {{ iconURL }}
 // @icon64URL {{ icon64URL }}
-// updateURL {{ updateURL }}
+// @updateURL {{ updateURL }}
 // @downloadURL {{ downloadURL }}
 // @supportURL {{ supportURL }}
 // @include {{ include }}
