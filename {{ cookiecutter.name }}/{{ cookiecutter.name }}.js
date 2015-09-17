@@ -1,29 +1,29 @@
 // ==UserScript==
-// @name {{ name }}
-// @namespace {{ namespace }}
-// @version {{ version }}
-// @author {{ author }}
-// @contributor {{ contributor }}
-// @description {{ description }}
-// @homepageURL {{ homepageURL }}
-// @website {{ website }}
-// @source {{ source }}
-// @iconURL {{ iconURL }}
-// @icon64URL {{ icon64URL }}
-// @updateURL {{ updateURL }}
-// @downloadURL {{ downloadURL }}
-// @supportURL {{ supportURL }}
-// @include {{ include }}
-// @match {{ match }}
-// @exclude {{ exclude }}
-// @require {{ require }}
-// @resource {{ resource }}
-// @run-at {{ run_at }}
-// @grant {{ grant }}
-// @user-agent {{ user_agent }}
-// @noframes {{ noframes }}
-// @unwrap {{ unwrap }}
-// @nocompat {{ nocompat }}
+// @name {{ cookiecutter.name }}
+// @namespace {{ cookiecutter.namespace }}
+// @version {{ cookiecutter.version }}
+// @author {{ cookiecutter.author }}
+// @contributor {{ cookiecutter.contributor }}
+// @description {{ cookiecutter.description }}
+// @homepageURL {{ cookiecutter.homepageURL }}
+// @website {{ cookiecutter.website }}
+// @source {{ cookiecutter.source }}
+// @iconURL {{ cookiecutter.iconURL }}
+// @icon64URL {{ cookiecutter.icon64URL }}
+// @updateURL {{ cookiecutter.updateURL }}
+// @downloadURL {{ cookiecutter.downloadURL }}
+// @supportURL {{ cookiecutter.supportURL }}
+// @include {{ cookiecutter.include }}
+// @match {{ cookiecutter.match }}
+// @exclude {{ cookiecutter.exclude }}
+// @require {{ cookiecutter.require }}
+// @resource {{ cookiecutter.resource }}
+// @run-at {{ cookiecutter.run_at }}
+// @grant {{ cookiecutter.grant }}
+// @user-agent {{ cookiecutter.user_agent }}
+// @noframes {{ cookiecutter.noframes }}
+// @unwrap {{ cookiecutter.unwrap }}
+// @nocompat {{ cookiecutter.nocompat }}
 // ==/UserScript==
 
 // Documentation here: http://tampermonkey.net/documentation.php
